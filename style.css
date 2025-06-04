@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+.x{
+    color: red;
+    font-size: 20px;
+}
+.y{
+    color: green;
+    font-size: 20px;
+}
+.z{
+    color: purple;
+    font-size: 20px;
+}
+.a{
+    color: orange;
+    font-size: 20px;
+}
+.s{
+    color: yellow;
+    font-size: 20px;
+}
+.s::before{
+    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+    height: 10px;
+}
+.x::before {
+    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+    width: 10px;
+    height: 10px;
+}
+
+.y::before {
+    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+width: 10px;
+    height: 10px;
+}
+.z::before{
+     content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+width: 10px;
+    height: 10px;
+}
+.a::before{
+     content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+width: 10px;
+    height: 10px;
+}
+.link-header{
+     display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 30px;
+    background-color: ;
+    
+}
+.xy{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    font-size: 20px;
+}
+

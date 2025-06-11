@@ -22,27 +22,27 @@ body {
     font-size: 20px;
 }
 .s::before{
-    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+    content: url("👉");
     height: 10px;
 }
 .x::before {
-    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+    content: url("👉");
     width: 10px;
     height: 10px;
 }
 
 .y::before {
-    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+    content: url("👉");
 width: 10px;
     height: 10px;
 }
 .z::before{
-     content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+     content: url("👉");
 width: 10px;
     height: 10px;
 }
 .a::before{
-     content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+     content: url("👉");
 width: 10px;
     height: 10px;
 }
